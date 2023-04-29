@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: burlywood;
+}
+
+table{
+	background-color: lightblue;
+}
+tr{
+	padding:5%;
+}
+
+.linkE{
+	background-color: lightblue;
+	border-radius:17%;
+}
+
+.linkI{
+	background-color: lightblue;
+	border-radius:17%;
+	
+}
